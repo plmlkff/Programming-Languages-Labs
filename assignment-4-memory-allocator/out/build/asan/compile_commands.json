@@ -1,0 +1,98 @@
+[
+{
+  "directory": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/out/build/asan",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DDEBUG -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/src/.\" -std=c17 -ggdb -g -fsanitize=address -fno-optimize-sibling-calls -fno-omit-frame-pointer -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fcolor-diagnostics -Wall -Werror -Wno-unused -ggdb -o src/CMakeFiles/memalloc.dir/mem.c.o -c \"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/src/mem.c\"",
+  "file": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/src/mem.c",
+  "output": "src/CMakeFiles/memalloc.dir/mem.c.o"
+},
+{
+  "directory": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/out/build/asan",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DDEBUG -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/src/.\" -std=c17 -ggdb -g -fsanitize=address -fno-optimize-sibling-calls -fno-omit-frame-pointer -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fcolor-diagnostics -Wall -Werror -Wno-unused -ggdb -o src/CMakeFiles/memalloc.dir/mem_debug.c.o -c \"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/src/mem_debug.c\"",
+  "file": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/src/mem_debug.c",
+  "output": "src/CMakeFiles/memalloc.dir/mem_debug.c.o"
+},
+{
+  "directory": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/out/build/asan",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DDEBUG -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/src/.\" -std=c17 -ggdb -g -fsanitize=address -fno-optimize-sibling-calls -fno-omit-frame-pointer -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fcolor-diagnostics -Wall -Werror -Wno-unused -ggdb -o src/CMakeFiles/memalloc.dir/tests/tests.c.o -c \"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/src/tests/tests.c\"",
+  "file": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/src/tests/tests.c",
+  "output": "src/CMakeFiles/memalloc.dir/tests/tests.c.o"
+},
+{
+  "directory": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/out/build/asan",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DDEBUG -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/src/.\" -std=c17 -ggdb -g -fsanitize=address -fno-optimize-sibling-calls -fno-omit-frame-pointer -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fcolor-diagnostics -Wall -Werror -Wno-unused -ggdb -o src/CMakeFiles/memalloc.dir/util.c.o -c \"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/src/util.c\"",
+  "file": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/src/util.c",
+  "output": "src/CMakeFiles/memalloc.dir/util.c.o"
+},
+{
+  "directory": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/out/build/asan",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DDEBUG -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/src/.\" -std=c17 -ggdb -g -fsanitize=address -fno-optimize-sibling-calls -fno-omit-frame-pointer -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fcolor-diagnostics -Wall -Werror -Wno-unused -ggdb -o src/CMakeFiles/memalloc.dir/main.c.o -c \"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/src/main.c\"",
+  "file": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/src/main.c",
+  "output": "src/CMakeFiles/memalloc.dir/main.c.o"
+},
+{
+  "directory": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/out/build/asan",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DDEBUG -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/tester/src\" -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/src/.\" -std=c17 -ggdb -g -fsanitize=address -fno-optimize-sibling-calls -fno-omit-frame-pointer -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fcolor-diagnostics -o tester/CMakeFiles/test_stubs.dir/src/test_utils.c.o -c \"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/tester/src/test_utils.c\"",
+  "file": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/tester/src/test_utils.c",
+  "output": "tester/CMakeFiles/test_stubs.dir/src/test_utils.c.o"
+},
+{
+  "directory": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/out/build/asan",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DDEBUG -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/tester/src\" -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/src/.\" -std=c17 -ggdb -g -fsanitize=address -fno-optimize-sibling-calls -fno-omit-frame-pointer -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fcolor-diagnostics -o tester/CMakeFiles/test__free.dir/tests/_free.c.o -c \"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/tester/tests/_free.c\"",
+  "file": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/tester/tests/_free.c",
+  "output": "tester/CMakeFiles/test__free.dir/tests/_free.c.o"
+},
+{
+  "directory": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/out/build/asan",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DDEBUG -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/tester/src\" -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/src/.\" -std=c17 -ggdb -g -fsanitize=address -fno-optimize-sibling-calls -fno-omit-frame-pointer -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fcolor-diagnostics -o tester/CMakeFiles/test_alloc_region.dir/tests/alloc_region.c.o -c \"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/tester/tests/alloc_region.c\"",
+  "file": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/tester/tests/alloc_region.c",
+  "output": "tester/CMakeFiles/test_alloc_region.dir/tests/alloc_region.c.o"
+},
+{
+  "directory": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/out/build/asan",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DDEBUG -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/tester/src\" -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/src/.\" -std=c17 -ggdb -g -fsanitize=address -fno-optimize-sibling-calls -fno-omit-frame-pointer -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fcolor-diagnostics -o tester/CMakeFiles/test_find_good_or_last.dir/tests/find_good_or_last.c.o -c \"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/tester/tests/find_good_or_last.c\"",
+  "file": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/tester/tests/find_good_or_last.c",
+  "output": "tester/CMakeFiles/test_find_good_or_last.dir/tests/find_good_or_last.c.o"
+},
+{
+  "directory": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/out/build/asan",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DDEBUG -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/tester/src\" -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/src/.\" -std=c17 -ggdb -g -fsanitize=address -fno-optimize-sibling-calls -fno-omit-frame-pointer -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fcolor-diagnostics -o tester/CMakeFiles/test_grow_heap.dir/tests/grow_heap.c.o -c \"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/tester/tests/grow_heap.c\"",
+  "file": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/tester/tests/grow_heap.c",
+  "output": "tester/CMakeFiles/test_grow_heap.dir/tests/grow_heap.c.o"
+},
+{
+  "directory": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/out/build/asan",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DDEBUG -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/tester/src\" -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/src/.\" -std=c17 -ggdb -g -fsanitize=address -fno-optimize-sibling-calls -fno-omit-frame-pointer -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fcolor-diagnostics -o tester/CMakeFiles/test_heap_init.dir/tests/heap_init.c.o -c \"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/tester/tests/heap_init.c\"",
+  "file": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/tester/tests/heap_init.c",
+  "output": "tester/CMakeFiles/test_heap_init.dir/tests/heap_init.c.o"
+},
+{
+  "directory": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/out/build/asan",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DDEBUG -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/tester/src\" -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/src/.\" -std=c17 -ggdb -g -fsanitize=address -fno-optimize-sibling-calls -fno-omit-frame-pointer -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fcolor-diagnostics -o tester/CMakeFiles/test_heap_term.dir/tests/heap_term.c.o -c \"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/tester/tests/heap_term.c\"",
+  "file": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/tester/tests/heap_term.c",
+  "output": "tester/CMakeFiles/test_heap_term.dir/tests/heap_term.c.o"
+},
+{
+  "directory": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/out/build/asan",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DDEBUG -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/tester/src\" -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/src/.\" -std=c17 -ggdb -g -fsanitize=address -fno-optimize-sibling-calls -fno-omit-frame-pointer -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fcolor-diagnostics -o tester/CMakeFiles/test_memalloc.dir/tests/memalloc.c.o -c \"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/tester/tests/memalloc.c\"",
+  "file": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/tester/tests/memalloc.c",
+  "output": "tester/CMakeFiles/test_memalloc.dir/tests/memalloc.c.o"
+},
+{
+  "directory": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/out/build/asan",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DDEBUG -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/tester/src\" -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/src/.\" -std=c17 -ggdb -g -fsanitize=address -fno-optimize-sibling-calls -fno-omit-frame-pointer -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fcolor-diagnostics -o tester/CMakeFiles/test_split_if_too_big.dir/tests/split_if_too_big.c.o -c \"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/tester/tests/split_if_too_big.c\"",
+  "file": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/tester/tests/split_if_too_big.c",
+  "output": "tester/CMakeFiles/test_split_if_too_big.dir/tests/split_if_too_big.c.o"
+},
+{
+  "directory": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/out/build/asan",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DDEBUG -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/tester/src\" -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/src/.\" -std=c17 -ggdb -g -fsanitize=address -fno-optimize-sibling-calls -fno-omit-frame-pointer -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fcolor-diagnostics -o tester/CMakeFiles/test_try_memalloc_existing.dir/tests/try_memalloc_existing.c.o -c \"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/tester/tests/try_memalloc_existing.c\"",
+  "file": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/tester/tests/try_memalloc_existing.c",
+  "output": "tester/CMakeFiles/test_try_memalloc_existing.dir/tests/try_memalloc_existing.c.o"
+},
+{
+  "directory": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/out/build/asan",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -DDEBUG -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/tester/src\" -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/src/.\" -std=c17 -ggdb -g -fsanitize=address -fno-optimize-sibling-calls -fno-omit-frame-pointer -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fcolor-diagnostics -o tester/CMakeFiles/test_try_merge_with_next.dir/tests/try_merge_with_next.c.o -c \"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/tester/tests/try_merge_with_next.c\"",
+  "file": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/tester/tests/try_merge_with_next.c",
+  "output": "tester/CMakeFiles/test_try_merge_with_next.dir/tests/try_merge_with_next.c.o"
+}
+]

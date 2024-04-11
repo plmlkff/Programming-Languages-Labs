@@ -1,0 +1,12 @@
+/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/ubsan/CMakeFiles/test.dir
+/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/ubsan/CMakeFiles/edit_cache.dir
+/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/ubsan/CMakeFiles/rebuild_cache.dir
+/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/ubsan/solution/CMakeFiles/image-transformer.dir
+/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/ubsan/solution/CMakeFiles/test.dir
+/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/ubsan/solution/CMakeFiles/edit_cache.dir
+/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/ubsan/solution/CMakeFiles/rebuild_cache.dir
+/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/ubsan/tester/CMakeFiles/image-matcher.dir
+/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/ubsan/tester/CMakeFiles/check.dir
+/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/ubsan/tester/CMakeFiles/test.dir
+/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/ubsan/tester/CMakeFiles/edit_cache.dir
+/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/ubsan/tester/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=LSan -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -DCMAKE_BUILD_TYPE=LSan -S "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation" -B "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/lsan"
+-- Clang-tidy: CLANG_TIDY-NOTFOUND
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/lsan
+
+Problems were encountered while collecting compiler information:
+	clang: error: unsupported option '-fsanitize=leak' for target 'arm64-apple-darwin21.6.0'

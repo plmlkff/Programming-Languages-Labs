@@ -1,0 +1,200 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-UBSan-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "src",
+					"jsonFile" : "directory-src-UBSan-b6cf2213fc5053b67c22.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "tester",
+					"jsonFile" : "directory-tester-UBSan-e9d49f88a042e74df727.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "tester",
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "UBSan",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "memory-allocator",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "check::@2d3ea729871aefd03561",
+					"jsonFile" : "target-check-UBSan-35b77ee3934a9f510993.json",
+					"name" : "check",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "memalloc::@145eef247bfb46b6828c",
+					"jsonFile" : "target-memalloc-UBSan-45672ef75d5861ee3dc1.json",
+					"name" : "memalloc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test__free::@2d3ea729871aefd03561",
+					"jsonFile" : "target-test__free-UBSan-413db1b813be498f7beb.json",
+					"name" : "test__free",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test_alloc_region::@2d3ea729871aefd03561",
+					"jsonFile" : "target-test_alloc_region-UBSan-d1d10d3bb6da364f62f0.json",
+					"name" : "test_alloc_region",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test_find_good_or_last::@2d3ea729871aefd03561",
+					"jsonFile" : "target-test_find_good_or_last-UBSan-b66be6487c0f0855d2fe.json",
+					"name" : "test_find_good_or_last",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test_grow_heap::@2d3ea729871aefd03561",
+					"jsonFile" : "target-test_grow_heap-UBSan-cc776f51c0d5064ef637.json",
+					"name" : "test_grow_heap",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test_heap_init::@2d3ea729871aefd03561",
+					"jsonFile" : "target-test_heap_init-UBSan-6681326a623ad60906ec.json",
+					"name" : "test_heap_init",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test_heap_term::@2d3ea729871aefd03561",
+					"jsonFile" : "target-test_heap_term-UBSan-421a1353c41f75dfc77e.json",
+					"name" : "test_heap_term",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test_memalloc::@2d3ea729871aefd03561",
+					"jsonFile" : "target-test_memalloc-UBSan-a2d7fe7c306476728d69.json",
+					"name" : "test_memalloc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test_split_if_too_big::@2d3ea729871aefd03561",
+					"jsonFile" : "target-test_split_if_too_big-UBSan-060c8d84ffcd73436125.json",
+					"name" : "test_split_if_too_big",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test_stubs::@2d3ea729871aefd03561",
+					"jsonFile" : "target-test_stubs-UBSan-e3151d560970db698459.json",
+					"name" : "test_stubs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test_try_memalloc_existing::@2d3ea729871aefd03561",
+					"jsonFile" : "target-test_try_memalloc_existing-UBSan-6ae1d992ab227f88f07b.json",
+					"name" : "test_try_memalloc_existing",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test_try_merge_with_next::@2d3ea729871aefd03561",
+					"jsonFile" : "target-test_try_merge_with_next-UBSan-8db7acfc6e41ef00a89c.json",
+					"name" : "test_try_merge_with_next",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/\u0423\u0447\u0435\u0431\u0430/\u042f\u0437\u044b\u043a\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438/assignment-4-memory-allocator/out/build/ubsan",
+		"source" : "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/\u0423\u0447\u0435\u0431\u0430/\u042f\u0437\u044b\u043a\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438/assignment-4-memory-allocator"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

@@ -1,0 +1,28 @@
+# ninja log v5
+1	11	0	/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/debug/CMakeFiles/cmake.verify_globs	f9e039ff212a26be
+63	113	1703720527042365347	tester/CMakeFiles/image-matcher.dir/src/file_cmp.c.o	fe93254bba5aa54e
+65	115	1703720527045210961	tester/CMakeFiles/image-matcher.dir/src/util.c.o	cdaded83d36bc482
+0	40	1703720914913563532	solution/CMakeFiles/image-transformer.dir/src/bmp.c.o	d8d6bedd4f832ac9
+8	49	1703721492119019030	build.ninja	6d7fec1f764117b9
+116	178	1703720527109826735	tester/image-matcher	bf331ebd21294b78
+1	40	1703720914913445076	solution/CMakeFiles/image-transformer.dir/src/main.c.o	880b442cc4f59a28
+64	115	1703720527044653305	tester/CMakeFiles/image-matcher.dir/src/main.c.o	99bd4ac976d74e8b
+41	93	1703720914968105241	solution/image-transformer	141bf9469eddd742
+3	64	1703720526992051810	tester/CMakeFiles/image-matcher.dir/src/bmp.c.o	8e80656cddb87f86
+1	62	1703720526991254867	solution/CMakeFiles/image-transformer.dir/src/files_logic.c.o	8a8aa6453094799d
+1	237	1700348128160399995	solution/CMakeFiles/image-transformer.dir/src/pixels_data_parser.c.o	49084fdbd92c70c5
+2	65	1703720526992335555	solution/CMakeFiles/image-transformer.dir/src/image.c.o	aea09ff3610a791c
+1	65	1703720526991417280	solution/CMakeFiles/image-transformer.dir/src/angle_parser.c.o	707aa1d06e3ba858
+0	13	0	/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/debug/CMakeFiles/cmake.verify_globs	f9e039ff212a26be
+1	38	1703721523907124207	solution/CMakeFiles/image-transformer.dir/src/image.c.o	aea09ff3610a791c
+0	40	1703721523909580934	solution/CMakeFiles/image-transformer.dir/src/bmp.c.o	d8d6bedd4f832ac9
+1	41	1703721523909262317	solution/CMakeFiles/image-transformer.dir/src/main.c.o	880b442cc4f59a28
+41	94	1703721523963661643	solution/image-transformer	141bf9469eddd742
+0	11	0	/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/debug/CMakeFiles/cmake.verify_globs	f9e039ff212a26be
+0	132	1703722119213620052	solution/CMakeFiles/image-transformer.dir/src/main.c.o	880b442cc4f59a28
+133	188	1703722119271357851	solution/image-transformer	141bf9469eddd742
+0	12	0	/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/debug/CMakeFiles/cmake.verify_globs	f9e039ff212a26be
+1	69	1703722783321743970	solution/CMakeFiles/image-transformer.dir/src/bmp.c.o	d8d6bedd4f832ac9
+1	69	1703722783321750178	solution/CMakeFiles/image-transformer.dir/src/files_logic.c.o	8a8aa6453094799d
+1	69	1703722783321738011	solution/CMakeFiles/image-transformer.dir/src/main.c.o	880b442cc4f59a28
+69	124	1703722783378531876	solution/image-transformer	141bf9469eddd742

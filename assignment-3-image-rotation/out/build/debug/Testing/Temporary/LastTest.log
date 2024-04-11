@@ -1,0 +1,93 @@
+Start testing: Dec 28 03:19 MSK
+----------------------------------------------------------
+1/6 Testing: test-1
+1/6 Test: test-1
+Command: "/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake" "-DTEST_DIR=/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/tester/tests/1" "-DIMAGE_TRANSFORMER=/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/debug/solution/image-transformer" "-DIMAGE_MATCHER=/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/debug/tester/image-matcher" "-P" "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/tester/tester.cmake"
+Directory: /Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/debug/tester
+"test-1" start time: Dec 28 03:19 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   1.92 sec
+----------------------------------------------------------
+Test Passed.
+"test-1" end time: Dec 28 03:19 MSK
+"test-1" time elapsed: 00:00:01
+----------------------------------------------------------
+
+2/6 Testing: test-2
+2/6 Test: test-2
+Command: "/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake" "-DTEST_DIR=/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/tester/tests/2" "-DIMAGE_TRANSFORMER=/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/debug/solution/image-transformer" "-DIMAGE_MATCHER=/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/debug/tester/image-matcher" "-P" "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/tester/tester.cmake"
+Directory: /Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/debug/tester
+"test-2" start time: Dec 28 03:19 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"test-2" end time: Dec 28 03:19 MSK
+"test-2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/6 Testing: test-3
+3/6 Test: test-3
+Command: "/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake" "-DTEST_DIR=/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/tester/tests/3" "-DIMAGE_TRANSFORMER=/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/debug/solution/image-transformer" "-DIMAGE_MATCHER=/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/debug/tester/image-matcher" "-P" "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/tester/tester.cmake"
+Directory: /Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/debug/tester
+"test-3" start time: Dec 28 03:19 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test-3" end time: Dec 28 03:19 MSK
+"test-3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/6 Testing: test-4
+4/6 Test: test-4
+Command: "/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake" "-DTEST_DIR=/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/tester/tests/4" "-DIMAGE_TRANSFORMER=/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/debug/solution/image-transformer" "-DIMAGE_MATCHER=/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/debug/tester/image-matcher" "-P" "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/tester/tester.cmake"
+Directory: /Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/debug/tester
+"test-4" start time: Dec 28 03:19 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"test-4" end time: Dec 28 03:19 MSK
+"test-4" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/6 Testing: test-5
+5/6 Test: test-5
+Command: "/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake" "-DTEST_DIR=/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/tester/tests/5" "-DIMAGE_TRANSFORMER=/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/debug/solution/image-transformer" "-DIMAGE_MATCHER=/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/debug/tester/image-matcher" "-P" "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/tester/tester.cmake"
+Directory: /Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/debug/tester
+"test-5" start time: Dec 28 03:19 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"test-5" end time: Dec 28 03:19 MSK
+"test-5" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/6 Testing: test-6
+6/6 Test: test-6
+Command: "/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake" "-DTEST_DIR=/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/tester/tests/6" "-DIMAGE_TRANSFORMER=/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/debug/solution/image-transformer" "-DIMAGE_MATCHER=/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/debug/tester/image-matcher" "-P" "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/tester/tester.cmake"
+Directory: /Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/debug/tester
+"test-6" start time: Dec 28 03:19 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"test-6" end time: Dec 28 03:19 MSK
+"test-6" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 28 03:19 MSK

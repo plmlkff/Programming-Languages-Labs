@@ -1,0 +1,56 @@
+[
+{
+  "directory": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/solution/src\" -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/solution/include\" -std=c17 -pedantic -Wall -Werror -ggdb -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fcolor-diagnostics -o solution/CMakeFiles/image-transformer.dir/src/angle_parser.c.o -c \"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/solution/src/angle_parser.c\"",
+  "file": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/solution/src/angle_parser.c",
+  "output": "solution/CMakeFiles/image-transformer.dir/src/angle_parser.c.o"
+},
+{
+  "directory": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/solution/src\" -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/solution/include\" -std=c17 -pedantic -Wall -Werror -ggdb -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fcolor-diagnostics -o solution/CMakeFiles/image-transformer.dir/src/bmp.c.o -c \"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/solution/src/bmp.c\"",
+  "file": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/solution/src/bmp.c",
+  "output": "solution/CMakeFiles/image-transformer.dir/src/bmp.c.o"
+},
+{
+  "directory": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/solution/src\" -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/solution/include\" -std=c17 -pedantic -Wall -Werror -ggdb -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fcolor-diagnostics -o solution/CMakeFiles/image-transformer.dir/src/files_logic.c.o -c \"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/solution/src/files_logic.c\"",
+  "file": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/solution/src/files_logic.c",
+  "output": "solution/CMakeFiles/image-transformer.dir/src/files_logic.c.o"
+},
+{
+  "directory": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/solution/src\" -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/solution/include\" -std=c17 -pedantic -Wall -Werror -ggdb -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fcolor-diagnostics -o solution/CMakeFiles/image-transformer.dir/src/image.c.o -c \"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/solution/src/image.c\"",
+  "file": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/solution/src/image.c",
+  "output": "solution/CMakeFiles/image-transformer.dir/src/image.c.o"
+},
+{
+  "directory": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/solution/src\" -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/solution/include\" -std=c17 -pedantic -Wall -Werror -ggdb -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fcolor-diagnostics -o solution/CMakeFiles/image-transformer.dir/src/main.c.o -c \"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/solution/src/main.c\"",
+  "file": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/solution/src/main.c",
+  "output": "solution/CMakeFiles/image-transformer.dir/src/main.c.o"
+},
+{
+  "directory": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/tester/src\" -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/tester/include\" -std=c17 -pedantic -Wall -Werror -ggdb -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fcolor-diagnostics -o tester/CMakeFiles/image-matcher.dir/src/bmp.c.o -c \"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/tester/src/bmp.c\"",
+  "file": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/tester/src/bmp.c",
+  "output": "tester/CMakeFiles/image-matcher.dir/src/bmp.c.o"
+},
+{
+  "directory": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/tester/src\" -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/tester/include\" -std=c17 -pedantic -Wall -Werror -ggdb -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fcolor-diagnostics -o tester/CMakeFiles/image-matcher.dir/src/file_cmp.c.o -c \"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/tester/src/file_cmp.c\"",
+  "file": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/tester/src/file_cmp.c",
+  "output": "tester/CMakeFiles/image-matcher.dir/src/file_cmp.c.o"
+},
+{
+  "directory": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/tester/src\" -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/tester/include\" -std=c17 -pedantic -Wall -Werror -ggdb -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fcolor-diagnostics -o tester/CMakeFiles/image-matcher.dir/src/main.c.o -c \"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/tester/src/main.c\"",
+  "file": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/tester/src/main.c",
+  "output": "tester/CMakeFiles/image-matcher.dir/src/main.c.o"
+},
+{
+  "directory": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/out/build/debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/tester/src\" -I\"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/tester/include\" -std=c17 -pedantic -Wall -Werror -ggdb -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -fcolor-diagnostics -o tester/CMakeFiles/image-matcher.dir/src/util.c.o -c \"/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/tester/src/util.c\"",
+  "file": "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-3-image-rotation/tester/src/util.c",
+  "output": "tester/CMakeFiles/image-matcher.dir/src/util.c.o"
+}
+]

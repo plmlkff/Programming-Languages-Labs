@@ -1,0 +1,9 @@
+# ninja log v5
+1	50	1703443548295570732	src/CMakeFiles/memalloc.dir/util.c.o	a9162c1a696428c2
+88	115	1703617890753382000	src/libmemalloc.a	fbfb7329db803c55
+0	47	1703443548292672322	src/CMakeFiles/memalloc.dir/mem_debug.c.o	1112f8f738b0cefb
+0	16	0	/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/Документы/Учеба/Языки программировани/assignment-4-memory-allocator/out/build/debug/CMakeFiles/cmake.verify_globs	4fe09ba9c809a0de
+0	88	1703617890724829868	src/CMakeFiles/memalloc.dir/mem.c.o	db691fbc88bd3372
+0	47	1703523119482602248	tester/CMakeFiles/test_heap_term.dir/tests/heap_term.c.o	2ac55b9cee0317c7
+0	45	1703523112824400429	tester/CMakeFiles/test_stubs.dir/src/test_utils.c.o	5a40eedf2c61c249
+48	126	1703523119562005264	tester/test_heap_term	aba17af06027f22e

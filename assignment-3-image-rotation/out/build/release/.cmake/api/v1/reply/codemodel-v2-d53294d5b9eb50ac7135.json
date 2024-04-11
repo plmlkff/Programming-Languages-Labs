@@ -1,0 +1,110 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Release-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "solution",
+					"jsonFile" : "directory-solution-Release-d907ed07e1259b0ac0f6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "solution",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "tester",
+					"jsonFile" : "directory-tester-Release-e9d49f88a042e74df727.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "tester",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "image-transformer",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "check::@2d3ea729871aefd03561",
+					"jsonFile" : "target-check-Release-08fef43e2ea3632eb9ef.json",
+					"name" : "check",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "image-matcher::@2d3ea729871aefd03561",
+					"jsonFile" : "target-image-matcher-Release-0b3b77bcf59ecbf98cb5.json",
+					"name" : "image-matcher",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "image-transformer::@e5e88c50852dbdcc79dc",
+					"jsonFile" : "target-image-transformer-Release-dccb58603463dada6716.json",
+					"name" : "image-transformer",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/\u0423\u0447\u0435\u0431\u0430/\u042f\u0437\u044b\u043a\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438/assignment-3-image-rotation/out/build/release",
+		"source" : "/Users/pavelmalkov/Library/Mobile Documents/com~apple~CloudDocs/\u0414\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u044b/\u0423\u0447\u0435\u0431\u0430/\u042f\u0437\u044b\u043a\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438/assignment-3-image-rotation"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
